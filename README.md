@@ -28,17 +28,17 @@ FitBot-CLI/ ├── .env # Environment variables (e.g., OPENAI_API_KEY) ├─
    git clone https://github.com/yourusername/FitBotCLI.git
    cd FitBotCLI
 ## Example
-## In-Domain Query
+### In-Domain Query
 
 Ask FitBot a question: I need a workout plan to build muscle.
 
-# Expected Response
+#### Expected Response
 
 Here’s a simple workout plan based on your goal: [Plan details].
 
-## Out-of-Domain Query
+### Out-of-Domain Query
 
-# Ask FitBot a question: What's the weather today?
-# Expected Response
+#### Ask FitBot a question: What's the weather today?
+#### Expected Response
 
 I'm sorry, but I only serve queries related to health, fitness, and nutrition.
