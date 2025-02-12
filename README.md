@@ -15,11 +15,6 @@ FitBot CLI leverages the cost-effective GPT-4o-mini model via LangChain to analy
 - **Cost-Efficient AI Integration:** Uses GPT-4o-mini for processing.
 - **Extensible Design:** Built to easily add more tools or features in the future.
 
-## Project Structure
-
-FitBot-CLI/ ├── .env # Environment variables (e.g., OPENAI_API_KEY) ├── agent.py # Query routing and tool selection logic ├── main.py # CLI application entry point ├── tools.py # Domain-specific tool implementations ├── README.md # Project documentation (this file) └── requirements.txt # Python dependencies
-
-
 ## Installation
 
 1. **Clone the Repository:**
