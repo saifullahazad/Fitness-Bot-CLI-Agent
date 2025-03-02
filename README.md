@@ -20,8 +20,8 @@ FitBot CLI leverages the cost-effective GPT-4o-mini model via LangChain to analy
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/FitBotCLI.git
-   cd FitBotCLI
+   git clone https://github.com/yourusername/Fitness-Bot-CLI-Agent.git
+   cd Fitness-Bot-CLI-Agent
 ## Example
 ### In-Domain Query
 
